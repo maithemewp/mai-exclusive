@@ -6,8 +6,8 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'f1a3782b01df5e869aadf73e6ba7f90f555560d3',
-    'name' => 'maithemewp/mai-inspire',
+    'reference' => 'a58480c9ff7a6761ff8d60e20342e28c2fb2380d',
+    'name' => 'maithemewp/mai-exclusive',
   ),
   'versions' => 
   array (
@@ -29,14 +29,14 @@
       ),
       'reference' => '900739eb6b0ec0210465f5983a6d4e0e420289e4',
     ),
-    'maithemewp/mai-inspire' => 
+    'maithemewp/mai-exclusive' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => 'f1a3782b01df5e869aadf73e6ba7f90f555560d3',
+      'reference' => 'a58480c9ff7a6761ff8d60e20342e28c2fb2380d',
     ),
     'maithemewp/mai-installer' => 
     array (
