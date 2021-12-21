@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit9793652b634b8761e847dc6c9d5a8e19
+class ComposerStaticIniteba5d28d8b58775f7d8f35b8fb3b25db
 {
     public static $files = array (
         '20716b7470cda7cd561f4000f723e024' => __DIR__ . '/..' . '/maithemewp/mai-installer/mai-installer.php',
@@ -20,7 +20,7 @@ class ComposerStaticInit9793652b634b8761e847dc6c9d5a8e19
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->classMap = ComposerStaticInit9793652b634b8761e847dc6c9d5a8e19::$classMap;
+            $loader->classMap = ComposerStaticIniteba5d28d8b58775f7d8f35b8fb3b25db::$classMap;
 
         }, null, ClassLoader::class);
     }
